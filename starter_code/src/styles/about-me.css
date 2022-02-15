@@ -1,0 +1,50 @@
+#foto{
+    height: 400px;
+    padding-left: 250px;
+    border-radius: 24px 24px 24px 24px;
+}
+
+.about-me{
+    margin-left: 90px;
+    margin-bottom: 200px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+}
+#section{
+    display: flex;
+   flex-direction: row;
+}
+
+.icono{
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 20px;
+}
+
+#icono_mail{
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: 20px;
+}
+
+.boton_azul{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+}

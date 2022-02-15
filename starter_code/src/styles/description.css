@@ -1,0 +1,95 @@
+#description{
+    text-align: center;
+    margin-bottom: 250px;
+}
+
+#parrafo1{
+    font-weight: 900;
+}
+
+#mi_proyect{
+    margin-left: 90px;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 250px;
+}
+
+.parrafo_grande{
+    font-size: 34px;
+    border-style: solid;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin-right: 200px;
+}
+
+#foto_proyect1{
+    padding-left: 70px;
+}
+
+.boton_vacio{
+    font-size: 20px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+    background: #005AA7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFDE4, #005AA7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFDE4, #005AA7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 11px;
+    margin-left: 20px;
+}
+
+.botones_azules{
+    font-size: 20px;
+    color: white;
+    background-color: blue;
+    padding: 11px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+}
+
+#instructor_gen{
+   /* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 80px;
+margin-bottom: 200px;
+
+position: static;
+width: 1100px;
+height: 200px;
+left: 117px;
+top: 80px;
+
+background: rgba(255, 255, 255, 0.2);
+backdrop-filter: blur(40px);
+
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 150px;
+margin-right: 300px;
+}
+
+#nom_instr{
+    text-align: center;
+}
+
+#img_erika{
+    padding-left: 400px;
+}
+
+#img_marco{
+    padding-left: 500px;
+}
+
+#ult_parraf{
+    text-align: center;
+}
